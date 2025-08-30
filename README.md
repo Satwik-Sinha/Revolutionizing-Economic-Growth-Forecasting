@@ -1,6 +1,5 @@
-# Solow-Swan-Model-with-SciML
-Solow-Swan Model using Universal Differential Equations (UDEs)
-# Solow-Swan Model using Universal Differential Equations (UDEs)
+# Revolutionizing Economic Growth Forecasting: Integrating Neural Ordinary Differential Equations and Universal Differential Equations with the Solow-Swan Model
+
 
 ## Overview
 
